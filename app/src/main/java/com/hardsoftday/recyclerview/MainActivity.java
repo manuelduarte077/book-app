@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         bookList = new ArrayList<>();
-        bookList.add(new Book("Buenos días triteza", "Category Book", "Description Book", R.drawable.buenos_dias));
-        bookList.add(new Book("Buenos días triteza", "Category Book", "Description Book", R.drawable.clockwork));
+        bookList.add(new Book("Buenos días triteza", "Category Book", "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription Book", R.drawable.buenos_dias));
+        bookList.add(new Book("a clorkwork orange", "Category Book", "Description Book", R.drawable.clockwork));
         bookList.add(new Book("Buenos días triteza", "Category Book", "Description Book", R.drawable.cormac));
         bookList.add(new Book("Buenos días triteza", "Category Book", "Description Book", R.drawable.don));
         bookList.add(new Book("Buenos días triteza", "Category Book", "Description Book", R.drawable.gatsby));
